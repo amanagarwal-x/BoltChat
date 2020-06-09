@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "47534720916",
+    "firebase_url": "https://boltchat-a0253.firebaseio.com",
+    "project_id": "boltchat-a0253",
+    "storage_bucket": "boltchat-a0253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47534720916:android:790cf8fe7644bd1f5a7181",
+        "android_client_info": {
+          "package_name": "com.helicalapplabs.boltchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47534720916-9b3g6fjuffgf83gr3guqajdc97i6t62h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3KB8BcEp4CCZX94S4zb_KuZF1HHxCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47534720916-9b3g6fjuffgf83gr3guqajdc97i6t62h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
